@@ -1,0 +1,20 @@
+{
+  "id": "shadowdark-character-rolls",
+  "title": "Shadowdark Character Rolls",
+  "description": "Macros to roll Shadowdark abilities (3d6 in order) with the original rules or house rules, showing the modifier total, roll validity and a Reroll button.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "relationships": {
+    "systems": [
+      { "id": "shadowdark", "type": "system" }
+    ]
+  },
+  "esmodules": ["scripts/main.mjs"],
+  "url": "https://github.com/fanzorena/shadowdark-character-rolls",
+  "manifest": "https://github.com/fanzorena/shadowdark-character-rolls/releases/latest/download/module.json",
+  "download": "https://github.com/fanzorena/shadowdark-character-rolls/releases/latest/download/module.zip",
+  "license": "LICENSE"
+}
